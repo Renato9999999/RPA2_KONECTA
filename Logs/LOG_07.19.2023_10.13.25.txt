@@ -1,0 +1,2 @@
+
+LOG_PROCESO_07.19.2023_10.13.25|INFO: Inicia la configuracion del proceso

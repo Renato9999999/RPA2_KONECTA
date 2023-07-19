@@ -1,0 +1,5 @@
+
+LOG_PROCESO_07.19.2023_12.45.58|INFO: Inicia la configuracion del proceso
+LOG_PROCESO_07.19.2023_12.45.58|INFO: Se encontraron 9 boletas
+LOG_PROCESO_07.19.2023_12.45.58|INFO: Se consolido todo el contenido de las boletas
+LOG_PROCESO_07.19.2023_12.45.58|INFO: Finalizo funcion configuracion inicial

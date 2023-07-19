@@ -1,0 +1,4 @@
+
+LOG_PROCESO_07.19.2023_11.07.51|INFO: Inicia la configuracion del proceso
+LOG_PROCESO_07.19.2023_11.07.51|INFO: Se encontraron  9 boletas
+LOG_PROCESO_07.19.2023_11.07.51|ERROR: No se encontro ninguna boleta

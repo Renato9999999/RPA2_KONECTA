@@ -1,0 +1,16 @@
+aspose-pdf==23.6.0
+cachetools==5.2.0
+cffi==1.15.1
+charset-normalizer==3.0.1
+cryptography==39.0.0
+fpdf==1.7.2
+future==0.18.2
+opencv-contrib-python==4.6.0.66
+pdfminer.six==20221105
+pdfplumber==0.7.6
+pefile==2022.5.30
+Pillow==9.4.0
+py2exe==0.13.0.0
+pycparser==2.21
+pywin32==306
+Wand==0.6.11

@@ -1,0 +1,8 @@
+
+LOG_PROCESO_07.19.2023_11.12.21|INFO: Inicia la configuracion del proceso
+LOG_PROCESO_07.19.2023_11.12.21|INFO: Se encontraron 9 boletas
+LOG_PROCESO_07.19.2023_11.12.21|INFO: Se consolido todo el contenido de las boletas
+LOG_PROCESO_07.19.2023_11.12.21|INFO: Finalizo funcion configuracion inicial
+LOG_PROCESO_07.19.2023_11.12.21|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_11.12.21|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_11.12.45|INFO: Termino de generar pdf: 

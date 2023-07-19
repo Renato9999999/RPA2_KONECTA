@@ -1,0 +1,5 @@
+ruta_input=C:/RPA2_KONECTA/Input/Boletas/
+ruta_output=C:/RPA2_KONECTA/Output/
+ruta_log=C:/RPA2_KONECTA/Logs/
+correo_destino=renatomendizabal01@gmail.com
+correo_copia=reyxtrack@gmail.com

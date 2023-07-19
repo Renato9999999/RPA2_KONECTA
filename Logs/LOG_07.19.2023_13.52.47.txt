@@ -1,0 +1,16 @@
+
+LOG_PROCESO_07.19.2023_13.52.47|INFO: Inicia la configuracion del proceso
+LOG_PROCESO_07.19.2023_13.52.47|INFO: Se encontraron 9 boletas
+LOG_PROCESO_07.19.2023_13.52.47|INFO: Se consolido todo el contenido de las boletas
+LOG_PROCESO_07.19.2023_13.52.47|INFO: Finalizo funcion configuracion inicial
+LOG_PROCESO_07.19.2023_13.52.47|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_13.52.47|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_13.53.43|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_13.53.43|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_13.53.43|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_13.53.43|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_13.53.44|INFO: Termino de generar pdf: 
+LOG_PROCESO_07.19.2023_13.53.44|INFO: Inicia funcion EnviarCorreo, intento: 1
+LOG_PROCESO_07.19.2023_13.54.28|ERROR: Error al enviar correo: outlook.application.CreateItem
+LOG_PROCESO_07.19.2023_13.54.28|INFO: Inicia funcion EnviarCorreo, intento: 2
+LOG_PROCESO_07.19.2023_13.56.08|INFO: Se termino de enviar de correo
