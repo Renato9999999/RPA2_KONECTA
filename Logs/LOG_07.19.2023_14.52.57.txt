@@ -1,0 +1,14 @@
+
+LOG_PROCESO_07.19.2023_14.52.57|INFO: Inicia la configuracion del proceso
+LOG_PROCESO_07.19.2023_14.52.57|INFO: Se encontraron 9 boletas
+LOG_PROCESO_07.19.2023_14.52.57|INFO: Se consolido todo el contenido de las boletas
+LOG_PROCESO_07.19.2023_14.52.57|INFO: Finalizo funcion configuracion inicial
+LOG_PROCESO_07.19.2023_14.52.57|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_14.52.57|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_14.53.45|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_14.53.45|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_14.53.45|INFO: Se intentara eliminar pdf existente: C:/RPA2_KONECTA/Output/Boletas.pdf
+LOG_PROCESO_07.19.2023_14.53.45|INFO: Se elimino pdf
+LOG_PROCESO_07.19.2023_14.53.45|INFO: Termino de generar pdf: 
+LOG_PROCESO_07.19.2023_14.53.45|INFO: Inicia funcion EnviarCorreo, intento: 1
+LOG_PROCESO_07.19.2023_14.54.53|INFO: Se termino de enviar de correo
